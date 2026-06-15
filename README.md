@@ -2,6 +2,12 @@
 
 A premium, hardware-accelerated biometric (FaceID/TouchID) prompt wrapper and secure passcode shield overlay for **React Native** and **Expo**. It completely masks your app's content with a customizable overlay, triggers native biometrics, and falls back to a gorgeous PIN-pad passcode overlay when necessary.
 
+## 🎬 Demo
+
+<p align="center">
+  <img src="./assets/cli_demo.svg" alt="react-native-secure-gate Demo" width="100%" style="max-width: 860px;" />
+</p>
+
 ---
 
 ## Features
